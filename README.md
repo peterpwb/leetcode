@@ -5,6 +5,8 @@ LeetCode---Python
 
 * 下阶段目标：完成HOT 100 🐧
 
+* 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)😅
+
 哈希表
 -----
 [1_easy_两数之和](https://github.com/peterpwb/leetcode---python/blob/master/1_easy_两数之和.py)
