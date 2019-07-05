@@ -1,7 +1,7 @@
 LeetCode---Python
 =====
 
-* 当前进度：完成了leetcode level-easy:100题.先将其整理到Github 🛫
+* 当前进度：完成了leetcode level-easy:100题, 整理上传中 🛫
 
 * 下阶段目标：完成HOT 100 🐧
 
