@@ -3,9 +3,11 @@ LeetCode---Python
 
 * 当前进度：完成了leetcode level-easy:100题, 整理上传中 🛫
 
-* 下阶段目标：完成HOT 100 🐧
+* 下阶段目标：8月内完成HOT 100 🆕 
 
-* 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)😅
+* 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)，搭配题目使用更佳🐧
+
+* 一直刷题一直爽！🖊 
 
 哈希表
 -----
