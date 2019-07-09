@@ -14,3 +14,22 @@ LeetCode---Python
 数学
 -----
 [7_easy_ 整数反转](https://github.com/peterpwb/leetcode---python/blob/master/7_easy_%20整数反转.py)
+[9_easy_ 回文数](https://github.com/peterpwb/leetcode---python/blob/master/9_easy_%20回文数.py)
+[13_easy_ 罗马数字转整数](https://github.com/peterpwb/leetcode---python/blob/master/13_easy_%20罗马数字转整数.py)
+
+字符串
+---
+[14_easy_最长公共前缀](https://github.com/peterpwb/leetcode---python/blob/master/14_easy_最长公共前缀.py)
+
+栈
+----
+[20_easy_ 有效的括号](https://github.com/peterpwb/leetcode---python/blob/master/20_easy_%20有效的括号.py)
+
+链表
+----
+[21_easy_ 合并两个有序链表](https://github.com/peterpwb/leetcode---python/blob/master/21_easy_%20合并两个有序链表.py)
+[24_medium_两两交换链表中的节点](https://github.com/peterpwb/leetcode---python/blob/master/24_medium_两两交换链表中的节点.py)
+
+数组
+---
+[26_easy_ 删除排序数组中的重复项](https://github.com/peterpwb/leetcode---python/blob/master/26_easy_%20删除排序数组中的重复项.py)
