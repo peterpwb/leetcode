@@ -1,4 +1,4 @@
-#44 ms  enumerate()函数（索引，值）  
+#44 ms  enumerate()函数（索引，值）字典模仿哈希表
 #Time:O(n)   Space:O(n)  (遍历)
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:

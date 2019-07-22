@@ -1,12 +1,12 @@
 #Time:O(n)  Space:O(1)
-#用set-list转换删除多余项，最快时间复杂度O(n)
+#80ms,用set-list转换删除多余项
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         nums=sorted（list(set(nums))）
         return len(nums)
 
-#直接对数组进行操作
-class Solution:
+#92ms,双指针的做法
+class Solution2:
     def removeDuplicates(self, nums: List[int]) -> int:
         if len(nums)<1:
             return 0
@@ -17,8 +17,8 @@ class Solution:
                 nums[i]=nums[j]
         return i+1
         
-#直接删除
-class Solution:
+#96ms,直接删除
+class Solution3：
     def removeDuplicates(self, nums: List[int]) -> int:
         i = 0
         while i < len(nums)-1:
