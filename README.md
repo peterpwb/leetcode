@@ -69,4 +69,12 @@ LeetCode---Python
 -----
 [100_easy_相同的树](https://github.com/peterpwb/leetcode---python/blob/master/100_easy_相同的树.py)
 
+[101_easy_对称二叉树](https://github.com/peterpwb/leetcode---python/blob/master/101_easy_对称二叉树.py)
+
+[104_easy_二叉树的最大深度](https://github.com/peterpwb/leetcode---python/blob/master/104_easy_二叉树的最大深度.py)
+
+[107_easy_二叉树的层次遍历 II](https://github.com/peterpwb/leetcode---python/blob/master/107_easy_二叉树的层次遍历%20II.py)
+
+[108_easy_将有序数组转换为二叉搜索树](https://github.com/peterpwb/leetcode---python/blob/master/108_easy_将有序数组转换为二叉搜索树.py)
+
 
