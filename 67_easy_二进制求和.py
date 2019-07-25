@@ -31,7 +31,7 @@ class Solution:
             res=[1]+res
             return ("".join('%s' %id for id in res))
 
-#二进制转十进制再转二进制
+#二进制转十进制再转二进制,52ms
 # Time:  O(1)   Space: O(1)
 class Solution:
     def addBinary(self, a: str, b: str) -> str:

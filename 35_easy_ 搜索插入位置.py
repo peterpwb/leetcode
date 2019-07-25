@@ -26,7 +26,7 @@ class Solution:
                 i += 1
         return len(nums)
         
-#二分法，
+#二分法，52ms
 #Time:  O(logn)  Space: O(1)
 class Solution(object):
     def searchInsert(self, nums, target):
