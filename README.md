@@ -1,7 +1,7 @@
 LeetCode---Python
 =====
 
-* 当前进度：leetcode 100+ (level-easy)，整理上传中 (26/100)🛫
+* 当前进度：leetcode 100+ (level-easy)，整理上传中 (32/100)🛫
 
 * 下阶段目标：8月内完成HOT 100 🆕 
 
@@ -55,15 +55,21 @@ LeetCode---Python
 
 [35_easy_ 搜索插入位置](https://github.com/peterpwb/leetcode---python/blob/master/35_easy_%20搜索插入位置.py)
 
-[53_easy_最大子序和](https://github.com/peterpwb/leetcode---python/blob/master/53_easy_最大子序和.py)
-
 [66_easy_加一](https://github.com/peterpwb/leetcode---python/blob/master/66_easy_加一.py)
 
 [88_easy_合并两个有序数组](https://github.com/peterpwb/leetcode---python/blob/master/88_easy_合并两个有序数组.py)
 
+[121_easy_买卖股票的最佳时机](https://github.com/peterpwb/leetcode---python/blob/master/121_easy_买卖股票的最佳时机.py)
+
 动态规划
 ---
+[53_easy_最大子序和](https://github.com/peterpwb/leetcode---python/blob/master/53_easy_最大子序和.py)
+
 [70_easy_爬楼梯](https://github.com/peterpwb/leetcode---python/blob/master/70_easy_爬楼梯.py)
+
+[118_easy_杨辉三角](https://github.com/peterpwb/leetcode---python/blob/master/118_easy_杨辉三角.py)
+
+[119_easy_杨辉三角 II](https://github.com/peterpwb/leetcode---python/blob/master/119_easy_杨辉三角%20II.py)
 
 二叉树
 -----
@@ -77,4 +83,8 @@ LeetCode---Python
 
 [108_easy_将有序数组转换为二叉搜索树](https://github.com/peterpwb/leetcode---python/blob/master/108_easy_将有序数组转换为二叉搜索树.py)
 
+[110_easy_平衡二叉树](https://github.com/peterpwb/leetcode---python/blob/master/110_easy_平衡二叉树.py)
 
+[111_easy_二叉树的最小深度](https://github.com/peterpwb/leetcode---python/blob/master/111_easy_二叉树的最小深度.py)
+
+[112_easy_路径总和](https://github.com/peterpwb/leetcode---python/blob/master/112_easy_路径总和.py)
