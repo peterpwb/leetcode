@@ -113,5 +113,6 @@ LeetCode---Python
 
 [112_easy_路径总和](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/112_easy_路径总和.py)
 
-栈
-----
+位运算
+---
+[136_easy_只出现一次的数字](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/136_easy_只出现一次的数字.py)
