@@ -10,6 +10,7 @@ LeetCode---Python
 * 一直刷题一直爽！🖊 
 
 * 索引：
+
 🐤 [哈希表](https://github.com/peterpwb/leetcode---python/tree/master#哈希表)
 
 🐑 [数学](https://github.com/peterpwb/leetcode---python/tree/master#数学)
@@ -54,6 +55,8 @@ LeetCode---Python
 
 [67_easy_二进制求和](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/67_easy_二进制求和.py)
 
+[125_easy_验证回文串](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/125_easy_验证回文串.py)
+
 栈
 ----
 [20_easy_ 有效的括号](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/20_easy_%20有效的括号.py)
@@ -79,6 +82,8 @@ LeetCode---Python
 [88_easy_合并两个有序数组](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/88_easy_合并两个有序数组.py)
 
 [121_easy_买卖股票的最佳时机](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/121_easy_买卖股票的最佳时机.py)
+
+[122_easy_买卖股票的最佳时机 II](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/122_easy_买卖股票的最佳时机%20II.py)
 
 动态规划
 ---
@@ -107,3 +112,6 @@ LeetCode---Python
 [111_easy_二叉树的最小深度](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/111_easy_二叉树的最小深度.py)
 
 [112_easy_路径总和](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/112_easy_路径总和.py)
+
+栈
+----
