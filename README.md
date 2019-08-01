@@ -3,7 +3,7 @@ LeetCode---Python
 
 * 已完成部分：leetcode 100+ (level-easy)，上传进度(35/100) 🛫
 
-* 当前进度：8月内完成HOT 100 ，完成进度(1/100)🆕 
+* 当前进度：8月内完成HOT 100 ，完成进度(10/100)🆕 
 
 * 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)，搭配题目使用更佳 🐧
 
