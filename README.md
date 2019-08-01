@@ -1,13 +1,32 @@
 LeetCode---Python
 =====
 
-* 当前进度：leetcode 100+ (level-easy)，整理上传中 (32/100)🛫
+* 当前进度：leetcode 100+ (level-easy)，整理上传中 (32/100) 🛫
 
 * 下阶段目标：8月内完成HOT 100 🆕 
 
-* 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)，搭配题目使用更佳🐧
+* 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)，搭配题目使用更佳 🐧
 
 * 一直刷题一直爽！🖊 
+
+* 索引：
+🐤 [哈希表](https://github.com/peterpwb/leetcode---python/tree/master#哈希表)
+
+🐑 [数学](https://github.com/peterpwb/leetcode---python/tree/master#数学)
+
+🦌 [字符串](https://github.com/peterpwb/leetcode---python/tree/master#字符串)
+
+🦎 [栈](https://github.com/peterpwb/leetcode---python/tree/master#栈)
+
+🐄 [链表](https://github.com/peterpwb/leetcode---python/tree/master#链表)
+
+🦉 [数组](https://github.com/peterpwb/leetcode---python/tree/master#数组)
+
+👻 [动态规划](https://github.com/peterpwb/leetcode---python/tree/master#动态规划)
+
+🤡 [二叉树](https://github.com/peterpwb/leetcode---python/tree/master#二叉树)
+
+🌟 [位运算]
 
 哈希表
 -----
