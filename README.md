@@ -69,6 +69,8 @@ LeetCode---Python
 
 [83_easy_删除排序链表中的重复元素](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/83_easy_删除排序链表中的重复元素.py)
 
+[2_medium_两数相加](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/2_medium_两数相加.py)
+
 数组
 ---
 [26_easy_ 删除排序数组中的重复项](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/26_easy_%20删除排序数组中的重复项.py)
