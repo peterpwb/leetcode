@@ -1,9 +1,9 @@
 LeetCode---Python
 =====
 
-* 当前进度：leetcode 100+ (level-easy)，整理上传中 (32/100) 🛫
+* 已完成部分：leetcode 100+ (level-easy)，上传进度(35/100) 🛫
 
-* 下阶段目标：8月内完成HOT 100 🆕 
+* 当前进度：8月内完成HOT 100 ，完成进度(1/100)🆕 
 
 * 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)，搭配题目使用更佳 🐧
 
@@ -11,23 +11,23 @@ LeetCode---Python
 
 * 索引：
 
-🐤 [哈希表](https://github.com/peterpwb/leetcode---python/tree/master#哈希表)
+🐤 [哈希表](https://github.com/peterpwb/leetcode---python#哈希表)
 
-🐑 [数学](https://github.com/peterpwb/leetcode---python/tree/master#数学)
+🐑 [数学](https://github.com/peterpwb/leetcode---python#数学)
 
-🦌 [字符串](https://github.com/peterpwb/leetcode---python/tree/master#字符串)
+🦌 [字符串](https://github.com/peterpwb/leetcode---python#字符串)
 
-🦎 [栈](https://github.com/peterpwb/leetcode---python/tree/master#栈)
+🦎 [栈](https://github.com/peterpwb/leetcode--python#栈)
 
-🐄 [链表](https://github.com/peterpwb/leetcode---python/tree/master#链表)
+🐄 [链表](https://github.com/peterpwb/leetcode---python#链表)
 
-🦉 [数组](https://github.com/peterpwb/leetcode---python/tree/master#数组)
+🦉 [数组](https://github.com/peterpwb/leetcode---python#数组)
 
-👻 [动态规划](https://github.com/peterpwb/leetcode---python/tree/master#动态规划)
+👻 [动态规划](https://github.com/peterpwb/leetcode---python#动态规划)
 
-🤡 [二叉树](https://github.com/peterpwb/leetcode---python/tree/master#二叉树)
+🤡 [二叉树](https://github.com/peterpwb/leetcode---python#二叉树)
 
-🌟 [位运算]
+🌟 [位运算](https://github.com/peterpwb/leetcode---python#位运算)
 
 哈希表
 -----
