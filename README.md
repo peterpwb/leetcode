@@ -77,7 +77,7 @@ LeetCode---Python
 
 [2_medium_两数相加](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/2_medium_两数相加.py)
 
-[142_medium_环形链表 II](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/142_medium_环形链表 II.py)
+[142_medium_环形链表 II](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/142_medium_%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.py)
 
 数组
 ---
