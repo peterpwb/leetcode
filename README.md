@@ -17,7 +17,7 @@ LeetCode---Python
 
 🦌 [字符串](https://github.com/peterpwb/leetcode---python#字符串)
 
-🦎 [栈](https://github.com/peterpwb/leetcode--python#栈)
+🦎 [栈](https://github.com/peterpwb/leetcode---python#%E6%A0%88)
 
 🐄 [链表](https://github.com/peterpwb/leetcode---python#链表)
 
