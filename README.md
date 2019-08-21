@@ -43,6 +43,14 @@ LeetCode---Python
 
 [69_easy_x 的平方根](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/69_easy_x%20的平方根.py)
 
+[168_easy_Excel表列名称](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/168_easy_Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0.py)
+
+[171_easy_Excel表列序号](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/171_easy_Excel%E8%A1%A8%E5%88%97%E5%BA%8F%E5%8F%B7.py)
+
+[172_easy_阶乘后的零](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/172_easy_%E9%98%B6%E4%B9%98%E5%90%8E%E7%9A%84%E9%9B%B6.py)
+
+[202_easy_快乐数](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/202_easy_%E5%BF%AB%E4%B9%90%E6%95%B0.py)
+
 字符串
 ---
 [14_easy_最长公共前缀](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/14_easy_最长公共前缀.py)
@@ -97,6 +105,14 @@ LeetCode---Python
 
 [122_easy_买卖股票的最佳时机 II](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/122_easy_买卖股票的最佳时机%20II.py)
 
+[167_easy_两数之和 II - 输入有序数组]（https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/167_easy_%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.py）
+
+[169_easy_求众数](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/169_easy_%E6%B1%82%E4%BC%97%E6%95%B0.py)
+
+[189_easy_旋转数组](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/189_easy_%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.py)
+
+[198_easy_打家劫舍](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/198_easy_%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.py)
+
 动态规划
 ---
 [53_easy_最大子序和](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/53_easy_最大子序和.py)
@@ -128,3 +144,7 @@ LeetCode---Python
 位运算
 ---
 [136_easy_只出现一次的数字](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/136_easy_只出现一次的数字.py)
+
+[190_easy_颠倒二进制位](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/190_easy_%E9%A2%A0%E5%80%92%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%BD%8D.py)
+
+[191_easy_位1的个数](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/191_easy_%E4%BD%8D1%E7%9A%84%E4%B8%AA%E6%95%B0.py)
