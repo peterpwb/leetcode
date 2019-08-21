@@ -1,9 +1,9 @@
 LeetCode---Python
 =====
 
-* 已完成部分：leetcode EASY-100，上传进度(38/100) 🛫
+* 已完成部分：leetcode EASY-100，上传进度(48/100) 🛫
 
-* 当前任务：完成HOT-100 ，完成进度(12/100)🆕 
+* 当前任务：完成HOT-100 ，完成进度(13/100)🆕 
 
 * 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)，搭配题目使用更佳 🐧
 
