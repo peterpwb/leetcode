@@ -105,7 +105,7 @@ LeetCode---Python
 
 [122_easy_买卖股票的最佳时机 II](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/122_easy_买卖股票的最佳时机%20II.py)
 
-[167_easy_两数之和 II - 输入有序数组](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/167_easy_%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.py）
+[167_easy_两数之和 II - 输入有序数组](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/167_easy_%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.py)
 
 [169_easy_求众数](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/169_easy_%E6%B1%82%E4%BC%97%E6%95%B0.py)
 
