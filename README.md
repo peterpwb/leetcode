@@ -33,6 +33,12 @@ LeetCode---Python
 -----
 [1_easy_两数之和](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/1_easy_两数之和.py)
 
+[204_easy_计数质数](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/204_easy_%E8%AE%A1%E6%95%B0%E8%B4%A8%E6%95%B0.py)
+
+[217_easy_存在重复元素](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/217_easy_%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.py)
+
+[219_easy_存在重复元素 II](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/219_easy_%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20II.py)
+
 数学
 -----
 [7_easy_ 整数反转](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/7_easy_%20整数反转.py)
@@ -65,6 +71,8 @@ LeetCode---Python
 
 [125_easy_验证回文串](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/125_easy_验证回文串.py)
 
+[205_easy_同构字符串](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/205_easy_%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2.py)
+
 [3_medium_无重复字符的最长子串](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/3_medium_%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.py)
 
 栈
@@ -85,9 +93,13 @@ LeetCode---Python
 
 [160_easy_相交链表](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/160_easy_相交链表.py)
 
-[2_medium_两数相加](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/2_medium_两数相加.py)
-
 [142_medium_环形链表 II](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/142_medium_%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.py)
+
+[203_easy_移除链表元素](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/203_easy_%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.py)
+
+[206_easy_反转链表](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/206_easy_%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.py)
+
+[2_medium_两数相加](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/2_medium_两数相加.py)
 
 数组
 ---
