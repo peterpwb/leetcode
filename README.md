@@ -3,7 +3,7 @@ LeetCode---Python
 
 * 已完成部分：leetcode EASY-100，二刷进度(65/100) 🛫
 
-* 当前任务：完成HOT-100 ，完成进度(13/100)🆕 
+* 当前任务：完成HOT-100 ，完成进度(20/100)🆕 
 
 * 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)，搭配题目使用更佳 🐧
 
