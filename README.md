@@ -3,7 +3,7 @@ LeetCode---Python
 
 * 已完成部分：leetcode EASY-100，二刷进度(65/100) 🛫
 
-* 当前任务：完成HOT-100 ，完成进度(20/100)🆕 
+* 当前任务：完成HOT-100 ，完成进度(21/100)🆕 
 
 * 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)，搭配题目使用更佳 🐧
 
@@ -63,6 +63,8 @@ LeetCode---Python
 
 字符串
 ---
+[3_medium_无重复字符的最长子串](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/3_medium_%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.py)
+
 [14_easy_最长公共前缀](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/14_easy_最长公共前缀.py)
 
 [28_easy_实现strStr()](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/28_easy_实现strStr().py)
@@ -79,8 +81,6 @@ LeetCode---Python
 
 [242_easy_有效的字母异位词](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/242_easy_%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.py)
 
-[3_medium_无重复字符的最长子串](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/3_medium_%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.py)
-
 栈
 ----
 [20_easy_ 有效的括号](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/20_easy_%20有效的括号.py)
@@ -93,6 +93,8 @@ LeetCode---Python
 
 链表
 ----
+[2_medium_两数相加](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/2_medium_两数相加.py)
+
 [21_easy_ 合并两个有序链表](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/21_easy_%20合并两个有序链表.py)
 
 [24_medium_两两交换链表中的节点](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/24_medium_两两交换链表中的节点.py)
@@ -101,9 +103,9 @@ LeetCode---Python
 
 [141_easy_环形链表](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/141_easy_环形链表.py)
 
-[160_easy_相交链表](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/160_easy_相交链表.py)
-
 [142_medium_环形链表 II](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/142_medium_%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.py)
+
+[160_easy_相交链表](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/160_easy_相交链表.py)
 
 [203_easy_移除链表元素](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/203_easy_%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.py)
 
@@ -113,10 +115,10 @@ LeetCode---Python
 
 [237_easy_删除链表中的节点](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/237_easy_%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.py)
 
-[2_medium_两数相加](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/2_medium_两数相加.py)
-
 数组
 ---
+[15_medium_三数之和](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/15_medium_%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.py)
+
 [26_easy_ 删除排序数组中的重复项](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/26_easy_%20删除排序数组中的重复项.py)
 
 [27_easy_ 移除元素](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/27_easy_%20移除元素.py)
