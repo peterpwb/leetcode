@@ -5,7 +5,7 @@ class Solution:
         return str(x) == str(x)[::-1]
 
 #同84 ms，按位取反
-#Time:O(1)   Space:O(1) 
+#Time:O(logn)   Space:O(1) 
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         if x < 0 or  x % 10 == 0 and x != 0: return False#尾带0不行
