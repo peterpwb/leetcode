@@ -1,5 +1,5 @@
 #solution1,按位取反,52 ms
-#Time:O(log(n)) = O(1)  Space:O(1)
+#Time:O(logn)  Space:O(1)
 class Solution(object):
     def reverse(self, x):
         """
@@ -10,7 +10,7 @@ class Solution(object):
             return -self.reverse(-x)
         result = 0
         while x:
-            result = result * 10 + x % 10#10^x=n-->x=log10(n)-->Time:O(log(n))
+            result = result * 10 + x % 10#10^x=n-->x=log10(n)-->Time:O(logn)
             x //= 10
         return result if result <= 0x7fffffff else 0 
 
