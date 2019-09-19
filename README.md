@@ -3,7 +3,7 @@ LeetCode---Python
 
 * 已完成部分：leetcode EASY-100，二刷进度(65/100) 🛫
 
-* 当前任务：完成HOT-100 ，完成进度(21/100)🆕 
+* 当前任务：完成HOT-100 ，完成进度(22/100)🆕 
 
 * 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)，搭配题目使用更佳 🐧
 
@@ -118,6 +118,8 @@ LeetCode---Python
 数组
 ---
 [15_medium_三数之和](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/15_medium_%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.py)
+
+[17_medium_电话号码的字母组合](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/17_medium_%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.py)
 
 [26_easy_ 删除排序数组中的重复项](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/26_easy_%20删除排序数组中的重复项.py)
 
