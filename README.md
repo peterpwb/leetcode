@@ -1,7 +1,7 @@
 LeetCode---Python
 =====
 
-* 已完成部分：leetcode EASY-100，二刷进度(65/100) 🛫
+* 已完成部分：leetcode EASY-100，二刷进度(66/100) 🛫
 
 * 当前任务：完成HOT-100 ，完成进度(23/100)🆕 
 
@@ -116,6 +116,8 @@ LeetCode---Python
 [234_easy_回文链表](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/234_easy_%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.py)
 
 [237_easy_删除链表中的节点](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/237_easy_%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.py)
+
+[876_easy_链表的中间结点](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/876_easy_%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9.py)
 
 数组
 ---
