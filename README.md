@@ -3,7 +3,7 @@ LeetCode---Python
 
 * 已完成部分：leetcode EASY-100，二刷进度(65/100) 🛫
 
-* 当前任务：完成HOT-100 ，完成进度(22/100)🆕 
+* 当前任务：完成HOT-100 ，完成进度(23/100)🆕 
 
 * 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)，搭配题目使用更佳 🐧
 
@@ -94,6 +94,8 @@ LeetCode---Python
 链表
 ----
 [2_medium_两数相加](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/2_medium_两数相加.py)
+
+[19_medium_删除链表的倒数第N个节点](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/19_medium_%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.py)
 
 [21_easy_ 合并两个有序链表](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/21_easy_%20合并两个有序链表.py)
 
