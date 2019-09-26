@@ -1,28 +1,30 @@
-#44 ms,用列表模仿栈
+#36 ms,用列表模仿栈
 #Time:O(n)  Space:O(n)
 class Solution:
     def isValid(self, s: str) -> bool:
+        res = []
         if len(s) == 0:
             return True
         if len(s) == 1:
             return False
-        res=[]
-        set1={"(","{","["}
+        set1 = {"{","[","("}
+        set2 = {"{}","[]","()"}
         if s[0] not in set1:
             return False
         for i in s:
             if i in set1:
                 res.append(i)
             else:
-                if len(res) == 0:
+                if len(res) == 0:#当前面匹配完，如右括号报错
                     return False
-                elif res[-1]+i == "{}" or res[-1]+i == "()" or res[-1]+i == "[]":
+                elif res[-1]+i in set2:
                     res.pop()
                 else:
                     return False
-        return len(res) == 0
+        return res == []
 
 #52 ms，使用字典
+#Time:O(n)  Space:O(n)
 class Solution:
     def isValid(self, s: str) -> bool:
         dict1={'(':')','[':']','{':'}'}
