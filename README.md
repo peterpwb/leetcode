@@ -1,7 +1,7 @@
 LeetCode---Python
 =====
 
-* 已完成部分：leetcode EASY-100，二刷进度(66/100) 🛫
+* 已完成部分：leetcode EASY-100，二刷进度(71/100) 🛫
 
 * 当前任务：完成HOT-100 ，完成进度(23/100)🆕 
 
@@ -61,6 +61,10 @@ LeetCode---Python
 
 [263_easy_丑数](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/263_easy_%E4%B8%91%E6%95%B0.py)
 
+[278_easy_第一个错误的版本](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/278_easy_%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.py)
+
+[292_easy_Nim 游戏](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/292_easy_Nim%20%E6%B8%B8%E6%88%8F.py)
+
 字符串
 ---
 [3_medium_无重复字符的最长子串](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/3_medium_%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.py)
@@ -80,6 +84,8 @@ LeetCode---Python
 [205_easy_同构字符串](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/205_easy_%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2.py)
 
 [242_easy_有效的字母异位词](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/242_easy_%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.py)
+
+[290_easy_单词规律](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/290_easy_%E5%8D%95%E8%AF%8D%E8%A7%84%E5%BE%8B.py)
 
 栈
 ----
@@ -146,6 +152,10 @@ LeetCode---Python
 [189_easy_旋转数组](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/189_easy_%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.py)
 
 [198_easy_打家劫舍](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/198_easy_%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.py)
+
+[268_easy_缺失数字](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/268_easy_%E7%BC%BA%E5%A4%B1%E6%95%B0%E5%AD%97.py)
+
+[283_easy_移动零](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/283_easy_%E7%A7%BB%E5%8A%A8%E9%9B%B6.py)
 
 动态规划
 ---
