@@ -1,7 +1,7 @@
 LeetCode---Python
 =====
 
-* 已完成部分：leetcode EASY-100，二刷进度(78/100) 🛫
+* 已完成部分：leetcode EASY-100，二刷进度(84/100) 🛫
 
 * 当前任务：完成HOT-100 ，完成进度(23/100)🆕 
 
@@ -69,6 +69,10 @@ LeetCode---Python
 
 [342_easy_4的幂](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/342_easy_4%E7%9A%84%E5%B9%82.py)
 
+[367_easy_有效的完全平方数](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/367_easy_%E6%9C%89%E6%95%88%E7%9A%84%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.py)
+
+[374_easy_猜数字大小](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/374_easy_%E7%8C%9C%E6%95%B0%E5%AD%97%E5%A4%A7%E5%B0%8F.py)
+
 字符串
 ---
 [3_medium_无重复字符的最长子串](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/3_medium_%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.py)
@@ -94,6 +98,10 @@ LeetCode---Python
 [344_easy_反转字符串](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/344_easy_%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.py)
 
 [345_easy_反转字符串中的元音字母](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/345_easy_%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3%E5%AD%97%E6%AF%8D.py)
+
+[383_easy_赎金信](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/383_easy_%E8%B5%8E%E9%87%91%E4%BF%A1.py)
+
+[387_easy_字符串中的第一个唯一字符](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/387_easy_%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6.py)
 
 栈
 ----
@@ -161,8 +169,6 @@ LeetCode---Python
 
 [198_easy_打家劫舍](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/198_easy_%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.py)
 
-[268_easy_缺失数字](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/268_easy_%E7%BC%BA%E5%A4%B1%E6%95%B0%E5%AD%97.py)
-
 [283_easy_移动零](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/283_easy_%E7%A7%BB%E5%8A%A8%E9%9B%B6.py)
 
 [303_easy_区域和检索 - 数组不可变](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/303_easy_%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2%20-%20%E6%95%B0%E7%BB%84%E4%B8%8D%E5%8F%AF%E5%8F%98.py)
@@ -214,3 +220,9 @@ LeetCode---Python
 [191_easy_位1的个数](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/191_easy_%E4%BD%8D1%E7%9A%84%E4%B8%AA%E6%95%B0.py)
 
 [231_easy_2的幂](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/231_easy_2%E7%9A%84%E5%B9%82.py)
+
+[268_easy_缺失数字](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/268_easy_%E7%BC%BA%E5%A4%B1%E6%95%B0%E5%AD%97.py)
+
+[371_easy_两整数之和](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/371_easy_%E4%B8%A4%E6%95%B4%E6%95%B0%E4%B9%8B%E5%92%8C.py)
+
+[389_easy_找不同](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/389_easy_%E6%89%BE%E4%B8%8D%E5%90%8C.py)
