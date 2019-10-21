@@ -25,7 +25,7 @@ LeetCode---Python
 
 👻 [动态规划](https://github.com/peterpwb/leetcode---python#动态规划)
 
-🤡 [N叉树](https://github.com/peterpwb/leetcode---python#二叉树)
+🤡 [N叉树](https://github.com/peterpwb/leetcode---python#n%E5%8F%89%E6%A0%91)
 
 🌟 [位运算](https://github.com/peterpwb/leetcode---python#位运算)
 
