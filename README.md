@@ -1,7 +1,7 @@
 LeetCode---Python
 =====
 
-* 已完成部分：leetcode EASY-100，二刷进度(91/100) 🛫
+* 已完成部分：leetcode EASY-100，二刷进度(94/100) 🛫
 
 * 当前任务：完成HOT-100 ，完成进度(23/100)🆕 
 
@@ -25,7 +25,7 @@ LeetCode---Python
 
 👻 [动态规划](https://github.com/peterpwb/leetcode---python#动态规划)
 
-🤡 [二叉树](https://github.com/peterpwb/leetcode---python#二叉树)
+🤡 [N叉树](https://github.com/peterpwb/leetcode---python#二叉树)
 
 🌟 [位运算](https://github.com/peterpwb/leetcode---python#位运算)
 
@@ -110,6 +110,10 @@ LeetCode---Python
 [409_easy_最长回文串](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/409_easy_%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E4%B8%B2.py)
 
 [412_easy_Fizz Buzz](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/412_easy_Fizz%20Buzz.py)
+
+[415_easy_字符串相加](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/415_easy_%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E5%8A%A0.py)
+
+[434_easy_字符串中的单词数](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/434_easy_%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%E6%95%B0.py)
 
 栈
 ----
@@ -197,7 +201,7 @@ LeetCode---Python
 
 [119_easy_杨辉三角 II](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/119_easy_杨辉三角%20II.py)
 
-二叉树
+N叉树
 -----
 [100_easy_相同的树](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/100_easy_相同的树.py)
 
@@ -222,6 +226,8 @@ LeetCode---Python
 [257_easy_二叉树的所有路径](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/257_easy_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%89%80%E6%9C%89%E8%B7%AF%E5%BE%84.py)
 
 [404_easy_左叶子之和](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/404_easy_%E5%B7%A6%E5%8F%B6%E5%AD%90%E4%B9%8B%E5%92%8C.py)
+
+[429_easy_N叉树的层序遍历](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/429_easy_N%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.py)
 
 位运算
 ---
