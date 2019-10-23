@@ -1,7 +1,7 @@
 LeetCode---Python
 =====
 
-* 已完成部分：leetcode EASY-100，二刷进度(94/100) 🛫
+* 已完成部分：leetcode EASY-100，二刷进度(100/100) 🛫
 
 * 当前任务：完成HOT-100 ，完成进度(23/100)🆕 
 
@@ -38,6 +38,8 @@ LeetCode---Python
 [217_easy_存在重复元素](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/217_easy_%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.py)
 
 [219_easy_存在重复元素 II](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/219_easy_%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20II.py)
+
+[438_medium_找到字符串中所有字母异位词](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/438_medium_%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.py)
 
 数学
 -----
@@ -77,6 +79,10 @@ LeetCode---Python
 
 [405_easy_数字转换为十六进制数](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/405_easy_%E6%95%B0%E5%AD%97%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%95%B0.py)
 
+[441_easy_排列硬币](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/441_easy_%E6%8E%92%E5%88%97%E7%A1%AC%E5%B8%81.py)
+
+[453_easy_最小移动次数使数组元素相等](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/453_easy_%E6%9C%80%E5%B0%8F%E7%A7%BB%E5%8A%A8%E6%AC%A1%E6%95%B0%E4%BD%BF%E6%95%B0%E7%BB%84%E5%85%83%E7%B4%A0%E7%9B%B8%E7%AD%89.py)
+
 字符串
 ---
 [3_medium_无重复字符的最长子串](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/3_medium_%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.py)
@@ -114,6 +120,8 @@ LeetCode---Python
 [415_easy_字符串相加](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/415_easy_%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E5%8A%A0.py)
 
 [434_easy_字符串中的单词数](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/434_easy_%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%E6%95%B0.py)
+
+[459_easy_重复的子字符串](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/459_easy_%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.py)
 
 栈
 ----
@@ -191,6 +199,8 @@ LeetCode---Python
 
 [414_easy_第三大的数](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/414_easy_%E7%AC%AC%E4%B8%89%E5%A4%A7%E7%9A%84%E6%95%B0.py)
 
+[448_easy_找到所有数组中消失的数字](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/448_easy_%E6%89%BE%E5%88%B0%E6%89%80%E6%9C%89%E6%95%B0%E7%BB%84%E4%B8%AD%E6%B6%88%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.py)
+
 动态规划
 ---
 [53_easy_最大子序和](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/53_easy_最大子序和.py)
@@ -228,6 +238,8 @@ N叉树
 [404_easy_左叶子之和](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/404_easy_%E5%B7%A6%E5%8F%B6%E5%AD%90%E4%B9%8B%E5%92%8C.py)
 
 [429_easy_N叉树的层序遍历](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/429_easy_N%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.py)
+
+[437_easy_路径总和 III](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/437_easy_%E8%B7%AF%E5%BE%84%E6%80%BB%E5%92%8C%20III.py)
 
 位运算
 ---
