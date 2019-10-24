@@ -3,7 +3,9 @@ LeetCode---Python
 
 * 已完成部分：leetcode EASY-100，二刷进度(100/100) 🛫
 
-* 当前任务：完成HOT-100 ，完成进度(23/100)🆕 
+* 当前任务：
+1.完成HOT-100 ，完成进度(28/100)🆕 
+2.完成Top Interview Questions-145，完成进度(3/76)🔒
 
 * 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)，搭配题目使用更佳 🐧
 
