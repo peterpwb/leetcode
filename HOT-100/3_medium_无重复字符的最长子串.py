@@ -1,17 +1,18 @@
-#滑动窗口,116 ms
-# Time : O(n)  Space: O(1)
+#滑动窗口,76ms
+# Time: O(n)  Space: O(1)
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        i = 0
-        j = 0
-        res = 0
-        dim = set()
-        while i < len(s) and j <len(s):
-            if s[j] not in dim:
-                dim.add(s[j])
-                j += 1
-                res = max(res,j-i)
+        start = 0
+        end = 0
+        maxlen = 0
+        length = len(s)
+        res = set()#用来存无重复字母
+        while end < length:
+            if s[end] not in res:#没有该字母
+                res.add(s[end])
+                end += 1
+                maxlen = max(maxlen,end-start)#取两者中长的那个
             else:
-                dim.remove(s[i])
-                i += 1
-        return res
+                res.remove(s[start])#如果没删到重复元素会一直删
+                start += 1
+        return maxlen
