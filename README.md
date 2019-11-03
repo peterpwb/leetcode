@@ -8,6 +8,8 @@ LeetCode---Python
   1.完成HOT-100 ，完成进度(28/100)🆕 
 
   2.完成Top Interview Questions-145，完成进度(3/76)🔒
+  
+  3. 完成剑指Offer，完成进度(22/66)📚
 
 * 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)，搭配题目使用更佳 🐧
 
