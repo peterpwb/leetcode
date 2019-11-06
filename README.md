@@ -5,9 +5,9 @@ LeetCode---Python
 
 * 当前任务：
 
-  1.完成[HOT-100](https://leetcode-cn.com/problemset/hot-100/)，完成进度(28/100)🆕 
+  1.完成[HOT-100](https://leetcode-cn.com/problemset/hot-100/)，完成进度(30/100)🆕 
 
-  2.完成[Top Interview Questions-145](https://leetcode.com/problemset/top-interview-questions/)，完成进度(3/76)🔒
+  2.完成[Top Interview Questions-145](https://leetcode.com/problemset/top-interview-questions/)，完成进度easy(47/47),medium(5/76)🔒
   
   3.完成[剑指Offer](https://www.nowcoder.com/ta/coding-interviews)，完成进度(22/66)📚
 
@@ -223,7 +223,11 @@ N叉树
 
 [101_easy_对称二叉树](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/101_easy_对称二叉树.py)
 
+[102_medium_二叉树的层次遍历](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/102_medium_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86.py)
+
 [104_easy_二叉树的最大深度](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/104_easy_二叉树的最大深度.py)
+
+[105_medium_从前序与中序遍历序列构造二叉树](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/105_medium_%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.py)
 
 [107_easy_二叉树的层次遍历 II](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/107_easy_二叉树的层次遍历%20II.py)
 
