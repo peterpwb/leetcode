@@ -7,7 +7,7 @@ LeetCode---Python
 
   1.完成[HOT-100](https://leetcode-cn.com/problemset/hot-100/)，完成进度(31/100)🆕 
 
-  2.完成[Top Interview Questions-145](https://leetcode.com/problemset/top-interview-questions/)，完成进度(56/145)🔒
+  2.完成[Top Interview Questions-145](https://leetcode.com/problemset/top-interview-questions/)，完成进度(57/145)🔒
   
   3.完成[剑指Offer](https://www.nowcoder.com/ta/coding-interviews)，完成进度(47/66)📚
 
@@ -92,6 +92,8 @@ LeetCode---Python
 字符串
 ---
 [3_medium_无重复字符的最长子串](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/3_medium_%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.py)
+
+[8_medium_字符串转换整数(atoi)](https://github.com/peterpwb/leetcode---python/blob/master/Top%20Interview%20Questions-145/Medium/8_medium_%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0%20(atoi).py)
 
 [14_easy_最长公共前缀](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/14_easy_最长公共前缀.py)
 
