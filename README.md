@@ -5,7 +5,7 @@ LeetCode---Python
 
 * 当前任务：
 
-  1.完成[HOT-100](https://leetcode-cn.com/problemset/hot-100/)，完成进度(30/100)🆕 
+  1.完成[HOT-100](https://leetcode-cn.com/problemset/hot-100/)，完成进度(31/100)🆕 
 
   2.完成[Top Interview Questions-145](https://leetcode.com/problemset/top-interview-questions/)，完成进度(52/145)🔒
   
