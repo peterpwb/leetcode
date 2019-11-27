@@ -5,9 +5,10 @@ LeetCode---Python
 
 * 当前任务：
 
-  1.完成[HOT-100](https://leetcode-cn.com/problemset/hot-100/)，完成进度(31/100)🆕 
+  1.完成[HOT-100](https://leetcode-cn.com/problemset/hot-100/)，完成进度(33/100)🆕 
 
-  2.完成[Top Interview Questions-145](https://leetcode.com/problemset/top-interview-questions/)，完成进度(57/145)🔒
+  2.完成[Top Interview Questions-145](https://leetcode.com/problemset/top-interview-questions/)，完成进度(Easy - 47/47
+Medium - 12/76    Hard - 0/22)🔒
   
   3.完成[剑指Offer](https://www.nowcoder.com/ta/coding-interviews)，完成进度(47/66)📚
 
@@ -176,6 +177,10 @@ LeetCode---Python
 [15_medium_三数之和](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/15_medium_%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.py)
 
 [17_medium_电话号码的字母组合](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/17_medium_%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.py)
+
+[22_medium_括号生成](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/22_medium_%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.py)
+
+[33_medium_搜索旋转排序数组](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/33_medium_%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.py)
 
 [26_easy_ 删除排序数组中的重复项](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/26_easy_%20删除排序数组中的重复项.py)
 
