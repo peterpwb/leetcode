@@ -5,10 +5,10 @@ LeetCode---Python
 
 * 当前任务：
 
-  1.完成[HOT-100](https://leetcode-cn.com/problemset/hot-100/)，完成进度(33/100)🆕 
+  1.完成[HOT-100](https://leetcode-cn.com/problemset/hot-100/)，完成进度(34/100)🆕 
 
   2.完成[Top Interview Questions-145](https://leetcode.com/problemset/top-interview-questions/)，完成进度(Easy - 47/47
-Medium - 12/76    Hard - 0/22)🔒
+Medium - 13/76    Hard - 0/22)🔒
   
   3.完成[剑指Offer](https://www.nowcoder.com/ta/coding-interviews)，完成进度(47/66)📚
 
@@ -180,11 +180,13 @@ Medium - 12/76    Hard - 0/22)🔒
 
 [22_medium_括号生成](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/22_medium_%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.py)
 
-[33_medium_搜索旋转排序数组](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/33_medium_%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.py)
-
 [26_easy_ 删除排序数组中的重复项](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/26_easy_%20删除排序数组中的重复项.py)
 
 [27_easy_ 移除元素](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/27_easy_%20移除元素.py)
+
+[33_medium_搜索旋转排序数组](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/33_medium_%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.py)
+
+[34_medium_在排序数组中查找元素的第一个和最后一个位置](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/34_medium_%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.py)
 
 [35_easy_ 搜索插入位置](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/35_easy_%20搜索插入位置.py)
 
