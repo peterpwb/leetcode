@@ -22,7 +22,7 @@ Medium - 13/76    Hard - 0/22)🔒
 
 🐑 [数学](https://github.com/peterpwb/leetcode---python#数学)
 
-🦁 [回溯]（https://github.com/peterpwb/leetcode---python#%E5%9B%9E%E6%BA%AF）
+🦁 [回溯](https://github.com/peterpwb/leetcode---python#%E5%9B%9E%E6%BA%AF)
 
 🦌 [字符串](https://github.com/peterpwb/leetcode---python#字符串)
 
