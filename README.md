@@ -90,6 +90,14 @@ Medium - 13/76    Hard - 0/22)🔒
 
 [453_easy_最小移动次数使数组元素相等](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/453_easy_%E6%9C%80%E5%B0%8F%E7%A7%BB%E5%8A%A8%E6%AC%A1%E6%95%B0%E4%BD%BF%E6%95%B0%E7%BB%84%E5%85%83%E7%B4%A0%E7%9B%B8%E7%AD%89.py)
 
+回溯
+---
+[17_medium_电话号码的字母组合](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/17_medium_%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.py)
+
+[22_medium_括号生成](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/22_medium_%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.py)
+
+[46_medium_全排列](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/46_medium_%E5%85%A8%E6%8E%92%E5%88%97.py)
+
 字符串
 ---
 [3_medium_无重复字符的最长子串](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/3_medium_%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.py)
@@ -175,10 +183,6 @@ Medium - 13/76    Hard - 0/22)🔒
 [11_medium_盛最多水的容器](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/11_medium_%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.py)
 
 [15_medium_三数之和](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/15_medium_%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.py)
-
-[17_medium_电话号码的字母组合](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/17_medium_%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.py)
-
-[22_medium_括号生成](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/22_medium_%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.py)
 
 [26_easy_ 删除排序数组中的重复项](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/26_easy_%20删除排序数组中的重复项.py)
 
