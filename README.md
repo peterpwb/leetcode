@@ -258,7 +258,7 @@ N叉树
 
 [404_easy_左叶子之和](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/404_easy_%E5%B7%A6%E5%8F%B6%E5%AD%90%E4%B9%8B%E5%92%8C.py)
 
-[429_easy_N叉树的层序遍历](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/429_easy_N%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.py)
+[429_medium_N叉树的层序遍历](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/429_medium_N%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.py)
 
 [437_easy_路径总和 III](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/437_easy_%E8%B7%AF%E5%BE%84%E6%80%BB%E5%92%8C%20III.py)
 
