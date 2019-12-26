@@ -1,3 +1,4 @@
+#运行时间：29ms  占用内存：5712k
 # -*- coding:utf-8 -*-
 class Solution:
     def StrToInt(self, s):
@@ -20,33 +21,11 @@ class Solution:
             if string not in numlist:#非合法字符
                 sum=0
                 break#跳出循环
-        if sum == 2147483649 or sum == 2147483648:
-            return 0
-        return sum*label
+        if label == 1:#判断溢出
+            return sum if sum <= 2147483647 else 0
+        if label == -1:
+            return -sum if sum <= 2147483648 else 0
 
-
-# -*- coding:utf-8 -*-
-class Solution:
-    def StrToInt(self, s):
-        # write code here
-        if len(s)==0:
-            return 0
-        else:
-            if s[0]>'9' or s[0]<'0':
-                a=0
-            else:
-                a=int(s[0])*10**(len(s)-1)
-            if len(s)>1:
-                for i in range(1,len(s)):
-                        if s[i]>='0' and s[i]<='9':
-                            a=a+int(s[i])*10**(len(s)-1-i)
-                        else:
-                            return 0
-        if s[0]=='+':
-            return a
-        if s[0]=='-':
-            return -a
-        return a
         
 # -*- coding:utf-8 -*-
 class Solution:
