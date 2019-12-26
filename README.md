@@ -10,7 +10,7 @@ LeetCode---Python
   2.完成[Top Interview Questions-145](https://leetcode.com/problemset/top-interview-questions/)，完成进度(Easy - 47/47
 Medium - 13/76    Hard - 0/22)🔒
   
-  3.完成[剑指Offer](https://www.nowcoder.com/ta/coding-interviews)，完成进度(56/67)📚
+  3.完成[剑指Offer](https://www.nowcoder.com/ta/coding-interviews)，完成进度(58/67)📚
 
 * 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)，搭配题目使用更佳 🐧
 
