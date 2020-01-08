@@ -42,6 +42,8 @@ Medium - 15/76    Hard - 0/22)🔒
 -----
 [1_easy_两数之和](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/1_easy_两数之和.py)
 
+[36_medium_有效的数独](https://github.com/peterpwb/leetcode---python/blob/master/Top%20Interview%20Questions-145/Medium/36_medium_%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.py)
+
 [204_easy_计数质数](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/204_easy_%E8%AE%A1%E6%95%B0%E8%B4%A8%E6%95%B0.py)
 
 [217_easy_存在重复元素](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/217_easy_%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.py)
