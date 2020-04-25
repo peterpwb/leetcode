@@ -1,16 +1,16 @@
 LeetCode---Python
 =====
 
-* 已完成部分：leetcode EASY-100，二刷进度(100/100) 🛫
+* 已完成部分：
+  1.leetcode EASY-100，二刷进度(100/100) 🛫
 
+  2.完成[剑指Offer](https://www.nowcoder.com/ta/coding-interviews)，完成进度(67/67)📚
 * 当前任务：
 
   1.完成[HOT-100](https://leetcode-cn.com/problemset/hot-100/)，完成进度(34/100)🆕 
 
   2.完成[Top Interview Questions-145](https://leetcode.com/problemset/top-interview-questions/)，完成进度(Easy - 47/47
 Medium - 15/76    Hard - 0/22)🔒
-  
-  3.完成[剑指Offer](https://www.nowcoder.com/ta/coding-interviews)，完成进度(60/67)📚
 
 * 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)，搭配题目使用更佳 🐧
 
