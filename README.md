@@ -2,6 +2,7 @@ LeetCode---Python
 =====
 
 * 已完成部分：
+  
   1.leetcode EASY-100，二刷进度(100/100) 🛫
 
   2.完成[剑指Offer](https://www.nowcoder.com/ta/coding-interviews)，完成进度(67/67)📚
