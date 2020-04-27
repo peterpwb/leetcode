@@ -11,7 +11,7 @@ LeetCode---Python
   1.完成[HOT-100](https://leetcode-cn.com/problemset/hot-100/)，完成进度(36/100)🆕 
 
   2.完成[Top Interview Questions-145](https://leetcode.com/problemset/top-interview-questions/)，完成进度(Easy - 47/47
-Medium - 15/76    Hard - 0/22)🔒
+Medium - 15/76    Hard - 1/22)🔒
 
   3.完成[腾讯精选练习50题](https://leetcode-cn.com/problemset/50/)，完成进度(33/50)🐧
 
@@ -187,6 +187,8 @@ Medium - 15/76    Hard - 0/22)🔒
 
 数组
 ---
+[4_hard_寻找两个有序数组的中位数](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/4_hard_%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.py)
+
 [11_medium_盛最多水的容器](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/11_medium_%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.py)
 
 [15_medium_三数之和](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/15_medium_%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.py)
