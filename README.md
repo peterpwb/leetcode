@@ -8,12 +8,14 @@ LeetCode---Python
   2.完成[剑指Offer](https://www.nowcoder.com/ta/coding-interviews)，完成进度(67/67)📚
 * 当前任务：
 
-  1.完成[HOT-100](https://leetcode-cn.com/problemset/hot-100/)，完成进度(34/100)🆕 
+  1.完成[HOT-100](https://leetcode-cn.com/problemset/hot-100/)，完成进度(36/100)🆕 
 
   2.完成[Top Interview Questions-145](https://leetcode.com/problemset/top-interview-questions/)，完成进度(Easy - 47/47
 Medium - 15/76    Hard - 0/22)🔒
 
-* 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)，搭配题目使用更佳 🐧
+  3.完成[腾讯精选练习50题](https://leetcode-cn.com/problemset/50/)，完成进度(33/50)🐧
+
+* 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)，搭配题目使用更佳 
 
 * 一直刷题一直爽！🖊 
 
