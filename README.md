@@ -3,17 +3,18 @@ LeetCode---Python
 
 * 已完成部分：
   
-  1.leetcode EASY-100，二刷进度(100/100) 🛫
+  🛫1.leetcode 日常训练，进度---esay:97  medium:4  hard:1
 
-  2.完成[剑指Offer](https://www.nowcoder.com/ta/coding-interviews)，完成进度(67/67)📚
+  📚2.完成[剑指Offer](https://www.nowcoder.com/ta/coding-interviews)，完成进度(67/67)
+  
 * 当前任务：
 
-  1.完成[HOT-100](https://leetcode-cn.com/problemset/hot-100/)，完成进度(36/100)🆕 
+  🆕1.完成[HOT-100](https://leetcode-cn.com/problemset/hot-100/)，完成进度(37/100)
 
-  2.完成[Top Interview Questions-145](https://leetcode.com/problemset/top-interview-questions/)，完成进度(Easy - 47/47
-Medium - 15/76    Hard - 1/22)🔒
+  🔒2.完成[Top Interview Questions-145](https://leetcode.com/problemset/top-interview-questions/)，完成进度(Easy - 47/47
+Medium - 16/76    Hard - 1/22)
 
-  3.完成[腾讯精选练习50题](https://leetcode-cn.com/problemset/50/)，完成进度(33/50)🐧
+  🐧3.完成[腾讯精选练习50题](https://leetcode-cn.com/problemset/50/)，完成进度(33/50)
 
 * 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)，搭配题目使用更佳 
 
