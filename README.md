@@ -3,7 +3,7 @@ LeetCode---Python
 
 * 已完成部分：
   
-  🛫1.leetcode 日常训练，进度---esay:98  medium:21  hard:1  sql:1
+  🛫1.leetcode 日常训练，进度---esay:100  medium:22  hard:2  sql:1
 
   📚2.完成[剑指Offer](https://www.nowcoder.com/ta/coding-interviews)，完成进度(67/67)
   
@@ -266,6 +266,10 @@ N叉树
 
 [112_easy_路径总和](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/112_easy_路径总和.py)
 
+[144_medium_二叉树的前序遍历](https://github.com/peterpwb/leetcode/blob/master/EASY-100/144_medium_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.py)
+
+[145_hard_二叉树的后序遍历](https://github.com/peterpwb/leetcode/blob/master/EASY-100/145_hard_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.py)
+
 [226_easy_翻转二叉树](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/226_easy_%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.py)
 
 [235_easy_二叉搜索树的最近公共祖先](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/235_easy_%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.py)
@@ -277,6 +281,10 @@ N叉树
 [429_medium_N叉树的层序遍历](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/429_medium_N%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.py)
 
 [437_easy_路径总和 III](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/437_easy_%E8%B7%AF%E5%BE%84%E6%80%BB%E5%92%8C%20III.py)
+
+[589_easy_N叉树的前序遍历](https://github.com/peterpwb/leetcode/blob/master/EASY-100/589_easy_N%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.py)
+
+[590_easy_N叉树的后序遍历](https://github.com/peterpwb/leetcode/blob/master/EASY-100/590_easy_N%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.py)
 
 位运算
 ---
