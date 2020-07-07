@@ -244,6 +244,8 @@ Medium - 16/76    Hard - 1/22)
 
 N叉树
 -----
+[94_medium_二叉树的中序遍历](https://github.com/peterpwb/leetcode/blob/master/Top%20Interview%20Questions-145/Medium/94_medium_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.py)
+
 [100_easy_相同的树](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/100_easy_相同的树.py)
 
 [101_easy_对称二叉树](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/101_easy_对称二叉树.py)
