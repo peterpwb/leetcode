@@ -3,7 +3,7 @@ LeetCode---Python
 
 * 已完成部分：
   
-  🛫1.leetcode 日常训练，进度---esay:97  medium:4  hard:1
+  🛫1.leetcode 日常训练，进度---esay:98  medium:21  hard:1  sql:1
 
   📚2.完成[剑指Offer](https://www.nowcoder.com/ta/coding-interviews)，完成进度(67/67)
   
