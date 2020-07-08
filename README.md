@@ -3,16 +3,16 @@ LeetCode---Python
 
 * 已完成部分：
   
-  🛫1.leetcode 日常训练，进度---esay:100  medium:22  hard:2  sql:1
+  🛫1.leetcode 日常训练，进度---esay:100  medium:23  hard:2  sql:1
 
   📚2.完成[剑指Offer](https://www.nowcoder.com/ta/coding-interviews)，完成进度(67/67)
   
 * 当前任务：
 
-  🆕1.完成[HOT-100](https://leetcode-cn.com/problemset/hot-100/)，完成进度(37/100)
+  🆕1.完成[HOT-100](https://leetcode-cn.com/problemset/hot-100/)，完成进度(38/100)
 
   🔒2.完成[Top Interview Questions-145](https://leetcode.com/problemset/top-interview-questions/)，完成进度(Easy - 47/47
-Medium - 16/76    Hard - 1/22)
+Medium - 17/76    Hard - 1/22)
 
   🐧3.完成[腾讯精选练习50题](https://leetcode-cn.com/problemset/50/)，完成进度(33/50)
 
@@ -245,6 +245,8 @@ Medium - 16/76    Hard - 1/22)
 N叉树
 -----
 [94_medium_二叉树的中序遍历](https://github.com/peterpwb/leetcode/blob/master/Top%20Interview%20Questions-145/Medium/94_medium_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.py)
+
+[98_medium_验证二叉搜索树](https://github.com/peterpwb/leetcode/blob/master/HOT-100/98_medium_%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.py)
 
 [100_easy_相同的树](https://github.com/peterpwb/leetcode---python/blob/master/EASY-100/100_easy_相同的树.py)
 
