@@ -3,7 +3,7 @@ LeetCode---Python
 
 * 已完成部分：
   
-  🛫1.leetcode 日常训练，进度---esay:100  medium:23  hard:2  sql:1
+  🛫1.leetcode 日常训练，进度---esay:100  medium:24  hard:2  sql:1
 
   📚2.完成[剑指Offer](https://www.nowcoder.com/ta/coding-interviews)，完成进度(67/67)
   
@@ -105,6 +105,8 @@ Medium - 17/76    Hard - 1/22)
 [22_medium_括号生成](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/22_medium_%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.py)
 
 [46_medium_全排列](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/46_medium_%E5%85%A8%E6%8E%92%E5%88%97.py)
+
+[47_medium_全排列 II](https://github.com/peterpwb/leetcode/blob/master/EASY-100/47_medium_%E5%85%A8%E6%8E%92%E5%88%97%20II.py)
 
 字符串
 ---
