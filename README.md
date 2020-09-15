@@ -9,12 +9,12 @@ LeetCode---Python
   
 * 当前任务：
 
-  🆕1.完成[HOT-100](https://leetcode-cn.com/problemset/hot-100/)，完成进度(38/100)
+  🆕1.完成[HOT-100](https://leetcode-cn.com/problemset/hot-100/)，完成进度(39/100)
 
   🔒2.完成[Top Interview Questions-145](https://leetcode.com/problemset/top-interview-questions/)，完成进度(Easy - 47/47
 Medium - 17/76    Hard - 1/22)
 
-  🐧3.完成[腾讯精选练习50题](https://leetcode-cn.com/problemset/50/)，完成进度(33/50)
+  🐧3.完成[腾讯精选练习50题](https://leetcode-cn.com/problemset/50/)，完成进度(34/50)
 
 * 运行时间取自LeetCode[中文社区](https://leetcode-cn.com/)，搭配题目使用更佳 
 
@@ -107,6 +107,8 @@ Medium - 17/76    Hard - 1/22)
 [46_medium_全排列](https://github.com/peterpwb/leetcode---python/blob/master/HOT-100/46_medium_%E5%85%A8%E6%8E%92%E5%88%97.py)
 
 [47_medium_全排列 II](https://github.com/peterpwb/leetcode/blob/master/EASY-100/47_medium_%E5%85%A8%E6%8E%92%E5%88%97%20II.py)
+
+[78_medium_子集](https://github.com/peterpwb/leetcode/blob/master/HOT-100/78_medium_%E5%AD%90%E9%9B%86.py)
 
 字符串
 ---
